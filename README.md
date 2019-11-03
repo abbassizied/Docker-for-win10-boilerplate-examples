@@ -1,5 +1,5 @@
 # Docker 
- 🍲 A Docker  hello-world examples based on Docker for Windows
+ 🍲 A Docker  hello-world examples based on Docker for Windows 10
 
 
 
