@@ -70,16 +70,16 @@ If you come across any issues please [report them here](https://github.com/abbas
 ## Where to go next
 Try to complete this To Do List:
 - [x] Alpine
-- [] Cplusplus-hello-world
-- [] Node.js-hello-world
-- [] MEAN
-- [] MERN
-- [] PHP-hello-world
-- [] PHP7&Mysql-based-application
+- [ ] Cplusplus-hello-world
+- [ ] Node.js-hello-world
+- [ ] MEAN
+- [ ] MERN
+- [ ] PHP-hello-world
+- [ ] PHP7&Mysql-based-application
 - [x] Java-hello-world 
-- [] Jenkins 
+- [ ] Jenkins 
 - [x] Python-hello-world
-- [] Scala-hello-world
+- [ ] Scala-hello-world
 - [x] Static-website-with-IIS
 
 PS: This is a non exhaustive list. Meanwhile, i am going to add what i think are useful examples.
