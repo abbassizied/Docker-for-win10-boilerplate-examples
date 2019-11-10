@@ -1,6 +1,9 @@
 # Docker 
  🍲 A Docker  hello-world examples based on Docker for Windows 10
 
+[![HitCount](http://hits.dwyl.io/abbassizied/Docker-for-win10-boilerplate-examples.svg)](http://hits.dwyl.io/abbassizied/Docker-for-win10-boilerplate-examples)
+
+
 
 
 
